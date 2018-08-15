@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{DC28BE20-4922-4CCE-B47C-A8FADADB14CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UtilityBox/MainActivity.cs">
+    <Files>
+      <File FileName="UtilityBox/Resources/values/style.xml" Line="2" Column="1" />
+      <File FileName="UtilityBox/MainActivity.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UtilityBox AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MultiItemStartupConfigurations />
+</Properties>

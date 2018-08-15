@@ -1,0 +1,139 @@
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/UtilityBox.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/UtilityBox.pdb
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/com.companyname.UtilityBox.apk
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/com.companyname.UtilityBox-Signed.apk
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.v7.GridLayout.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/UtilityBox.csprojResolveAssemblyReference.cache
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/UtilityBox.csproj.CoreCompileInputs.cache
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/UtilityBox.dll
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/UtilityBox.pdb
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/android/bin/com.companyname.UtilityBox.apk
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/layout/main.xml
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/values/strings.xml
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/res/values/style.xml
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/R.cs.flag
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/R.txt
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/uploadflags.txt
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Mono.Android.pdb
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/bin/Debug/Mono.Android.Export.pdb
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/linksrc/UtilityBox.pdb
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/linksrc/Mono.Android.pdb
+/Users/dilinaperera/Projects/UtilityBox/UtilityBox/obj/Debug/linksrc/Mono.Android.Export.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/UtilityBox.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/UtilityBox.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/com.companyname.UtilityBox.apk
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/com.companyname.UtilityBox-Signed.apk
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Annotations.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Compat.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Fragment.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.v7.GridLayout.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/UtilityBox.csprojAssemblyReference.cache
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/UtilityBox.csproj.CoreCompileInputs.cache
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/UtilityBox.csproj.CopyComplete
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/UtilityBox.dll
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/UtilityBox.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/android/bin/com.companyname.UtilityBox.apk
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/layout/main.xml
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/values/strings.xml
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/mipmap-hdpi/icon.png
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/mipmap-mdpi/icon.png
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/mipmap-xhdpi/icon.png
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/mipmap-xxhdpi/icon.png
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/mipmap-xxxhdpi/icon.png
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/values/style.xml
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/R.cs.flag
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/R.txt
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/uploadflags.txt
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Mono.Android.Export.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Mono.Android.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/android/assets/Mono.Android.Export.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/android/assets/UtilityBox.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/Mono.Android.Export.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/Mono.Android.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/UtilityBox.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/mscorlib.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.Core.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.Xml.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.ComponentModel.Composition.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.Net.Http.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.Runtime.Serialization.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/System.ServiceModel.Internals.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/Mono.Security.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/mscorlib.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.Core.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.Xml.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.ComponentModel.Composition.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.Net.Http.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.Runtime.Serialization.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/System.ServiceModel.Internals.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/Mono.Security.pdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/linksrc/UtilityBox.dll.mdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/bin/Debug/UtilityBox.dll.mdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/android/assets/UtilityBox.dll.mdb
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/layout/menu.xml
+C:/Users/samy/Documents/Projects/untitled folder/UtilityBox/obj/Debug/res/layout/currency_converter.xml
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/UtilityBox.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/UtilityBox.pdb
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/com.companyname.UtilityBox.apk
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/com.companyname.UtilityBox-Signed.apk
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Annotations.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Compat.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Core.UI.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Fragment.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.v7.GridLayout.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/UtilityBox.csproj.CoreCompileInputs.cache
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/UtilityBox.dll
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/UtilityBox.pdb
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/android/bin/com.companyname.UtilityBox.apk
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/layout/main.xml
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/values/strings.xml
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/values/style.xml
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/layout/menu.xml
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/res/layout/currency_converter.xml
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/R.cs.flag
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/R.txt
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/uploadflags.txt
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/linksrc/UtilityBox.pdb
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/linksrc/Mono.Android.pdb
+/Users/dilinaperera/Desktop/untitled folderr/UtilityBox/obj/Debug/linksrc/Mono.Android.Export.pdb

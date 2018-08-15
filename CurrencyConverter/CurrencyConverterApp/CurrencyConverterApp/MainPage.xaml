@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CurrencyConverterApp"
+             x:Class="CurrencyConverterApp.MainPage">
+    <ContentPage.Content>
+        <StackLayout Padding="10,30,10,10" Spacing="10">
+            <Label Text="Currency Converter" Font="30" HorizontalOptions="Center" VerticalOptions="Center"/>
+            <ActivityIndicator x:Name="activityIndicator"/>
+            <Entry x:Name="amountEntry" Placeholder="Enter value" HorizontalOptions="FillAndExpand" VerticalOptions="Center" Keyboard="Numeric"/>
+            <Picker x:Name="sourcePicker" Title="From"/>
+            <Picker x:Name="targetPicker" Title="To"/>
+            <Button x:Name="convertButton" Text="Convert" IsEnabled="False" BackgroundColor="AntiqueWhite" TextColor="Firebrick" HorizontalOptions="FillAndExpand" VerticalOptions="Center"/>
+            <Label x:Name="convertedLabel" Font="20" FontAttributes="Bold" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
